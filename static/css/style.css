@@ -1,20 +1,20 @@
 :root {
-    --background: #07100e;
-    --surface: rgba(15, 28, 25, 0.86);
-    --surface-solid: #101c19;
-    --surface-light: #162723;
-    --border: rgba(255, 255, 255, 0.09);
+    --background: #0b1020;
+    --surface: rgba(19, 27, 46, 0.86);
+    --surface-solid: #121c32;
+    --surface-light: #1a2744;
+    --border: rgba(166, 188, 255, 0.14);
 
-    --text: #f5faf7;
-    --muted: #8fa39c;
+    --text: #edf4ff;
+    --muted: #9aaed0;
 
-    --primary: #83f5b5;
-    --primary-dark: #20b76a;
-    --primary-soft: rgba(131, 245, 181, 0.12);
+    --primary: #7cc4ff;
+    --primary-dark: #4b8df7;
+    --primary-soft: rgba(124, 196, 255, 0.12);
 
-    --blue: #7cc9ff;
-    --danger: #ff7e8c;
-    --warning: #f3c86c;
+    --blue: #8ec5ff;
+    --danger: #ff7d8c;
+    --warning: #ffc977;
 
     --sidebar-width: 260px;
 
